@@ -1,0 +1,138 @@
+body {
+  background-color: white;
+}
+.logo {
+  border-radius: 200px;
+  border: 1px solid rgba(255, 255, 255, 0);
+}
+
+.card {
+  background-color: rgb(213, 35, 171);
+}
+.accordion-button {
+  background-color: rgb(213, 35, 171);
+}
+
+h2 {
+  color: black;
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+li {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h6 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.row2 {
+  margin-top: 50px;
+}
+
+.card2 {
+  background-color: rgb(213, 35, 171);
+  color: black;
+}
+
+.card-header {
+  color: black;
+}
+
+.card-footer {
+  color: black;
+}
+
+.fotocv {
+  border-radius: 50px;
+  height: 100px;
+  width: auto;
+}
+
+.collapse {
+  justify-content: end;
+  font-size: 20px;
+}
+
+.container-fluid {
+  background-color: rgb(213, 35, 171);
+}
+
+.accordion {
+  margin-top: 50px;
+}
+
+.dropdown-menu {
+  background-color: rgb(213, 35, 171);
+}
+
+.collapseOne {
+  background-color: grey;
+}
+
+.titulo {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.container {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  display: flex;
+  flex-direction: row;
+  border-color: rgb(213, 35, 171);
+}
+
+.estudios {
+  margin-top: 30px;
+  margin-left: 250px;
+}
+
+.satisfy-regular {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h4 {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h5 {
+  font-family: "Satisfy", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.btn {
+  font-family: "Satisfy", cursive;
+  font-weight: 500;
+  font-style: normal;
+}
+
+i {
+  font-size: 20px;
+}
